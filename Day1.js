@@ -11,6 +11,5 @@ function positive_negative(x, y)
 }
 console.log(positive_negative(2, -2));
 console.log(positive_negative(2, 2));
-// console.log(positive_negative(2, -2));
-// console.log(positive_negative(-2, -2));
+
 
